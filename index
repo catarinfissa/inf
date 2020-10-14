@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="normalize.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="header">
+      <div class="container flex">
+          <img src="pics/Place_Your_Logo_Here_(Double_Click_to_Edit).png" alt="logo">
+          <ul>
+          <li>Home</li>
+          <li>Menu</li>
+          <li>Our story</li>
+          <li>Contact us</li>
+        </ul>
+       </div>
+  </div>  
+  <div class="main">
+      <div class="container">
+
+          <div class="text">
+          <h1>IT´S TIME<br>
+            FOR HIKING</h1>
+<h2>LOREMIPSUM DOLOR</h2>
+</div>
+
+<div class="btn">
+    <input type="submit" value="READ MORE">
+</div>
+<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do iusmod tempor incididunt ut labore et dolore magna.</span>
+      </div>
+  </div>
+
+<div class="letsgo">
+    <div class="container">
+        <h3>
+            LET´S go
+        </h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. </p>
+    </div>
+</div>
+
+</body>
+</html>
